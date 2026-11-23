@@ -1,0 +1,9 @@
+dataset,stream,classes,cells,trials_pct,stopped_pct
+Porto,mixed,56,3547,5.58,0.655
+Porto,insert,48,1686,8.344999999999999,0.44999999999999996
+Porto,drift,60,3079,6.254999999999999,0.51
+Porto,dist_uniform,54,3993,6.83,0.96
+Porto,dist_data,50,1333,9.28,0.72
+Porto,dist_hotspot,44,205,6.34,0.5499999999999999
+Porto,dist_zipf,50,2157,11.469999999999999,1.03
+Porto,dist_trajectory,45,1242,7.180000000000001,0.54

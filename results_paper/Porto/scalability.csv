@@ -1,0 +1,13 @@
+dataset,n_million,series,us
+Porto,0.25,UnIS overhead,6.506459999999999
+Porto,0.5,UnIS overhead,6.8478352
+Porto,1.0,UnIS overhead,6.581666749999999
+Porto,2.0,UnIS overhead,6.8578266
+Porto,0.25,OASIS search,6.444049033779107
+Porto,0.25,OASIS overhead,0.26852
+Porto,0.5,OASIS search,7.561286879725721
+Porto,0.5,OASIS overhead,0.25969
+Porto,1.0,OASIS search,6.507325867635732
+Porto,1.0,OASIS overhead,0.24062
+Porto,2.0,OASIS search,7.762595729586655
+Porto,2.0,OASIS overhead,0.26173

@@ -1,0 +1,16 @@
+dataset,qtype,method,component,us
+Porto,kNN,UnIS,Features,0.4070854166666667
+Porto,kNN,UnIS,Prediction,6.17687
+Porto,kNN,UnIS,Search,34.557938988095245
+Porto,Radius,UnIS,Features,0.4054828002414001
+Porto,Radius,UnIS,Prediction,6.17687
+Porto,Radius,UnIS,Search,5.673565178032589
+Porto,Range,UnIS,Features,0.4045671978352375
+Porto,Range,UnIS,Prediction,6.17687
+Porto,Range,UnIS,Search,4.163039987973542
+Porto,kNN,OASIS,Selection,0.2428799999999999
+Porto,kNN,OASIS,Search,9.111158879560836
+Porto,Radius,OASIS,Selection,0.2428799999999999
+Porto,Radius,OASIS,Search,5.966238926733
+Porto,Range,OASIS,Selection,0.2428799999999999
+Porto,Range,OASIS,Search,4.416009933204976
