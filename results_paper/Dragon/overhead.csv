@@ -1,0 +1,16 @@
+dataset,qtype,method,component,us
+Dragon,kNN,UnIS,Features,0.4374304004764032
+Dragon,kNN,UnIS,Prediction,5.58355
+Dragon,kNN,UnIS,Search,12.729341670388566
+Dragon,Radius,UnIS,Features,0.4423561854875982
+Dragon,Radius,UnIS,Prediction,5.58355
+Dragon,Radius,UnIS,Search,8.647332152210753
+Dragon,Range,UnIS,Features,0.4409589222614841
+Dragon,Range,UnIS,Prediction,5.58355
+Dragon,Range,UnIS,Search,10.0949234393404
+Dragon,kNN,OASIS,Selection,0.24481
+Dragon,kNN,OASIS,Search,10.679938574323074
+Dragon,Radius,OASIS,Selection,0.24481
+Dragon,Radius,OASIS,Search,8.822273997329635
+Dragon,Range,OASIS,Selection,0.24481
+Dragon,Range,OASIS,Search,6.637654451356873

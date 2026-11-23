@@ -1,0 +1,9 @@
+dataset,stream,classes,cells,trials_pct,stopped_pct
+Dragon,mixed,44,3158,7.57,0.605
+Dragon,insert,45,1673,11.845,0.53
+Dragon,drift,43,2372,5.96,0.42500000000000004
+Dragon,dist_uniform,38,2684,4.67,1.25
+Dragon,dist_data,38,1256,11.459999999999999,0.31
+Dragon,dist_hotspot,32,262,6.63,0.62
+Dragon,dist_zipf,41,1757,4.66,1.09
+Dragon,dist_trajectory,32,892,8.290000000000001,0.3

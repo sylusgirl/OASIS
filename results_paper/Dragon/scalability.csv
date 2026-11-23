@@ -1,0 +1,13 @@
+dataset,n_million,series,us
+Dragon,0.25,UnIS overhead,5.6416956
+Dragon,0.5,UnIS overhead,6.2657284
+Dragon,1.0,UnIS overhead,5.92920735
+Dragon,2.0,UnIS overhead,5.699274399999999
+Dragon,0.25,OASIS search,9.542275416171796
+Dragon,0.25,OASIS overhead,0.26309
+Dragon,0.5,OASIS search,10.261277034655455
+Dragon,0.5,OASIS overhead,0.26657
+Dragon,1.0,OASIS search,8.704273847700533
+Dragon,1.0,OASIS overhead,0.2445399999999999
+Dragon,2.0,OASIS search,11.666798616638292
+Dragon,2.0,OASIS overhead,0.26
