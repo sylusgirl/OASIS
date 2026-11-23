@@ -1,0 +1,9 @@
+dataset,stream,classes,cells,trials_pct,stopped_pct
+Uber,mixed,61,3169,6.75,0.65
+Uber,insert,51,1074,10.870000000000001,0.445
+Uber,drift,62,2755,6.4350000000000005,0.61
+Uber,dist_uniform,54,3710,6.4399999999999995,1.05
+Uber,dist_data,50,771,6.78,0.67
+Uber,dist_hotspot,50,272,6.5,1.16
+Uber,dist_zipf,52,2074,6.069999999999999,0.8200000000000001
+Uber,dist_trajectory,49,720,7.32,0.75

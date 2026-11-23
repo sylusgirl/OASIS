@@ -1,0 +1,13 @@
+dataset,n_million,series,us
+Uber,0.25,UnIS overhead,6.3228758
+Uber,0.5,UnIS overhead,6.928408999999999
+Uber,1.0,UnIS overhead,6.6835076
+Uber,2.0,UnIS overhead,6.3009704
+Uber,0.25,OASIS search,6.849965724933043
+Uber,0.25,OASIS overhead,0.2630699999999999
+Uber,0.5,OASIS search,6.812728760152189
+Uber,0.5,OASIS overhead,0.25063
+Uber,1.0,OASIS search,7.399005479389154
+Uber,1.0,OASIS overhead,0.23539
+Uber,2.0,OASIS search,8.504953234862938
+Uber,2.0,OASIS overhead,0.24564

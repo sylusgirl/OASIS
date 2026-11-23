@@ -1,0 +1,16 @@
+dataset,qtype,method,component,us
+Uber,kNN,UnIS,Features,0.4518489583333333
+Uber,kNN,UnIS,Prediction,5.90796
+Uber,kNN,UnIS,Search,12.111494791666663
+Uber,Radius,UnIS,Features,0.4490509957754979
+Uber,Radius,UnIS,Prediction,5.90796
+Uber,Radius,UnIS,Search,6.2516086300543146
+Uber,Range,UnIS,Features,0.453069302465424
+Uber,Range,UnIS,Prediction,5.90796
+Uber,Range,UnIS,Search,5.210398526758869
+Uber,kNN,OASIS,Selection,0.23801
+Uber,kNN,OASIS,Search,10.097750290304637
+Uber,Radius,OASIS,Selection,0.23801
+Uber,Radius,OASIS,Search,6.446688638578402
+Uber,Range,OASIS,Selection,0.23801
+Uber,Range,OASIS,Search,5.621553719248088
