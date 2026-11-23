@@ -1,0 +1,9 @@
+dataset,stream,classes,cells,trials_pct,stopped_pct
+GeoNames,mixed,57,4715,8.334999999999999,0.64
+GeoNames,insert,51,3971,10.69,0.23500000000000001
+GeoNames,drift,55,3141,11.110000000000001,0.44999999999999996
+GeoNames,dist_uniform,51,4077,7.26,0.86
+GeoNames,dist_data,47,3127,9.02,0.44999999999999996
+GeoNames,dist_hotspot,49,542,7.04,0.51
+GeoNames,dist_zipf,41,2034,8.66,0.62
+GeoNames,dist_trajectory,39,3080,7.6499999999999995,0.37

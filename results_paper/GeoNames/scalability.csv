@@ -1,0 +1,13 @@
+dataset,n_million,series,us
+GeoNames,0.25,UnIS overhead,6.7059592
+GeoNames,0.5,UnIS overhead,6.4400884000000005
+GeoNames,1.0,UnIS overhead,7.016136400000001
+GeoNames,2.0,UnIS overhead,6.6321520000000005
+GeoNames,0.25,OASIS search,6.132610547452857
+GeoNames,0.25,OASIS overhead,0.2585699999999999
+GeoNames,0.5,OASIS search,7.920589393351673
+GeoNames,0.5,OASIS overhead,0.25416
+GeoNames,1.0,OASIS search,6.790919759063945
+GeoNames,1.0,OASIS overhead,0.23638
+GeoNames,2.0,OASIS search,7.226891499667007
+GeoNames,2.0,OASIS overhead,0.25584

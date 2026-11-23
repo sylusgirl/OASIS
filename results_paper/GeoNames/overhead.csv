@@ -1,0 +1,16 @@
+dataset,qtype,method,component,us
+GeoNames,kNN,UnIS,Features,0.4774177083333333
+GeoNames,kNN,UnIS,Prediction,6.24131
+GeoNames,kNN,UnIS,Search,64.06029196428571
+GeoNames,Radius,UnIS,Features,0.4854665057332528
+GeoNames,Radius,UnIS,Prediction,6.24131
+GeoNames,Radius,UnIS,Search,7.158975709112855
+GeoNames,Range,UnIS,Features,0.4831943776307877
+GeoNames,Range,UnIS,Prediction,6.24131
+GeoNames,Range,UnIS,Search,5.217116506313891
+GeoNames,kNN,OASIS,Selection,0.23713
+GeoNames,kNN,OASIS,Search,8.871419187950428
+GeoNames,Radius,OASIS,Selection,0.23713
+GeoNames,Radius,OASIS,Search,6.888121752797955
+GeoNames,Range,OASIS,Selection,0.23713
+GeoNames,Range,OASIS,Search,4.592301151639687
